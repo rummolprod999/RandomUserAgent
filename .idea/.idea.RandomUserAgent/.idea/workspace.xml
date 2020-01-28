@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b96a440e-0b18-4dbc-8f21-f21e7dcb2af7" name="Default Changelist" comment="update">
+    <list default="true" id="b96a440e-0b18-4dbc-8f21-f21e7dcb2af7" name="Default Changelist" comment="fix naming">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomUserAgent/RandomUA.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/RandomUA.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestProjectRandomUA/UnitTestRandomUA.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectRandomUA/UnitTestRandomUA.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestProjectRandomUA/obj/Debug/netcoreapp3.1/TestProjectRandomUA.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/Debug/netcoreapp3.1/TestProjectRandomUA.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580201993303</updated>
-      <workItem from="1580202037604" duration="5876000" />
+      <workItem from="1580202037604" duration="6439000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1580207359753</created>
@@ -119,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580207873205</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix naming">
+      <created>1580207963090</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580207963090</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix naming">
+      <created>1580207975941</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580207975941</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +151,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="fix naming" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix naming" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1904" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580205442954">
@@ -159,17 +171,17 @@
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
     <state x="2155" y="252" key="Github.UntrackedFilesDialog/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580207309491" />
-    <state x="2040" y="259" key="Rider.ProjectTemplateDialog.Size" timestamp="1580206209166">
+    <state x="2040" y="259" key="Rider.ProjectTemplateDialog.Size" timestamp="1580208126278">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
-    <state x="2040" y="259" key="Rider.ProjectTemplateDialog.Size/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580206209166" />
+    <state x="2040" y="259" key="Rider.ProjectTemplateDialog.Size/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580208126278" />
     <state x="1956" y="159" key="SettingsEditor" timestamp="1580205916929">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
     <state x="1956" y="159" key="SettingsEditor/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580205916929" />
-    <state x="2040" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580207965388">
+    <state x="2040" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580207977688">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
-    <state x="2040" y="256" key="Vcs.Push.Dialog.v2/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580207965388" />
+    <state x="2040" y="256" key="Vcs.Push.Dialog.v2/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580207977688" />
   </component>
 </project>
