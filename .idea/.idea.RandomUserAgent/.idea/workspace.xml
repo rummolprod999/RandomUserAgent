@@ -49,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="settings.editor.selected.configurable" value="RiderUnitTestingPageId" />
@@ -179,9 +180,9 @@
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
     <state x="1956" y="159" key="SettingsEditor/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580205916929" />
-    <state x="2040" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580207977688">
+    <state x="2040" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580209351503">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
-    <state x="2040" y="256" key="Vcs.Push.Dialog.v2/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580207977688" />
+    <state x="2040" y="256" key="Vcs.Push.Dialog.v2/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580209351503" />
   </component>
 </project>

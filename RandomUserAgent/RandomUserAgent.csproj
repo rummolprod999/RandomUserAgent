@@ -2,6 +2,12 @@
 
     <PropertyGroup>
         <TargetFramework>netcoreapp2.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Random user-agent generator</Title>
+        <Description>Randon user-agent generator for NET Core projects</Description>
+        <Copyright>MIT</Copyright>
+        <RepositoryUrl>https://github.com/rummolprod999/RandomUserAgent</RepositoryUrl>
+        <PackageTags>user-agent, user agent</PackageTags>
     </PropertyGroup>
 
 </Project>
