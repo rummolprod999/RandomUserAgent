@@ -1,152 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b96a440e-0b18-4dbc-8f21-f21e7dcb2af7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/vagrant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomUserAgent.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomUserAgent/RandomUA.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomUserAgent/RandomUserAgent.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomUserAgent/obj/Debug/netcoreapp2.0/RandomUserAgent.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomUserAgent/obj/Debug/netcoreapp2.0/RandomUserAgent.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomUserAgent/obj/Debug/netcoreapp2.0/RandomUserAgent.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomUserAgent/obj/Debug/netcoreapp2.0/RandomUserAgent.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomUserAgent/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomUserAgent/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/TestProjectRandomUA.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/UnitTestRandomUA.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/TestProjectRandomUA.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/TestProjectRandomUA.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/TestProjectRandomUA.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/TestProjectRandomUA.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/TestProjectRandomUA.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/testhost.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/xunit.abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/xunit.assert.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/xunit.core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/Debug/netcoreapp3.1/TestProjectRandomUA.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/Debug/netcoreapp3.1/TestProjectRandomUA.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/Debug/netcoreapp3.1/TestProjectRandomUA.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/Debug/netcoreapp3.1/TestProjectRandomUA.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/Debug/netcoreapp3.1/TestProjectRandomUA.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/Debug/netcoreapp3.1/TestProjectRandomUA.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/Debug/netcoreapp3.1/TestProjectRandomUA.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/Debug/netcoreapp3.1/TestProjectRandomUA.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRandomUA/TestRandomUA.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRandomUA/TestRandomUA.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRandomUA/obj/Debug/netcoreapp2.0/TestRandomUA.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRandomUA/obj/Debug/netcoreapp2.0/TestRandomUA.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRandomUA/obj/Debug/netcoreapp2.0/TestRandomUA.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRandomUA/obj/Debug/netcoreapp2.0/TestRandomUA.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRandomUA/obj/TestRandomUA.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRandomUA/obj/TestRandomUA.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRandomUA/obj/TestRandomUA.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRandomUA/obj/TestRandomUA.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRandomUA/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRandomUA/obj/project.packagespec.json" afterDir="false" />
+    <list default="true" id="b96a440e-0b18-4dbc-8f21-f21e7dcb2af7" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,8 +78,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580201993303</updated>
-      <workItem from="1580202037604" duration="5088000" />
+      <workItem from="1580202037604" duration="5333000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1580207359753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580207359753</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1580207390004</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580207390004</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +112,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1904" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580205442954">
@@ -267,9 +142,9 @@
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
     <state x="1956" y="159" key="SettingsEditor/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580205916929" />
-    <state x="2040" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580207367491">
+    <state x="2040" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580207391760">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
-    <state x="2040" y="256" key="Vcs.Push.Dialog.v2/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580207367491" />
+    <state x="2040" y="256" key="Vcs.Push.Dialog.v2/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580207391760" />
   </component>
 </project>
