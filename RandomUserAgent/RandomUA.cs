@@ -1615,7 +1615,7 @@ namespace RandomUserAgent
             };
         }
 
-        public static string randomUserAgent
+        public static string RandomUserAgent
         {
             get
             {
