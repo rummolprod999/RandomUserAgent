@@ -17,7 +17,7 @@ namespace TestProjectRandomUA
         {
             for (var i = 0; i <= 500; i++)
             {
-                var ua = RandomUserAgent.RandomUA.RandomUserAgent;
+                var ua = RandomUserAgent.RandomUa.RandomUserAgent;
                 _testOutputHelper.WriteLine(ua);
                 Assert.True(ua != "");
             }

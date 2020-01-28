@@ -3,12 +3,12 @@ using System.Collections.Generic;
 
 namespace RandomUserAgent
 {
-    public class RandomUA
+    public static class RandomUa
     {
         private static readonly Dictionary<string, List<string>> UaMap = new Dictionary<string, List<string>>();
         private static readonly Dictionary<string, double> FreqMap = new Dictionary<string, double>();
 
-        static RandomUA()
+        static RandomUa()
         {
             FreqMap["Internet Explorer"] = 11.8;
             FreqMap["Firefox"] = 28.2;
