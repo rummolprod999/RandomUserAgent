@@ -1,0 +1,72 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/alex/RiderProjects/RandomUserAgent/TestProjectRandomUA/TestProjectRandomUA.csproj",
+    "projectName": "TestProjectRandomUA",
+    "projectPath": "/home/alex/RiderProjects/RandomUserAgent/TestProjectRandomUA/TestProjectRandomUA.csproj",
+    "outputPath": "/home/alex/RiderProjects/RandomUserAgent/TestProjectRandomUA/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {},
+      "https://www.nuget.org/api/v2/": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/home/alex/RiderProjects/RandomUserAgent/RandomUserAgent/RandomUserAgent.csproj": {
+            "projectPath": "/home/alex/RiderProjects/RandomUserAgent/RandomUserAgent/RandomUserAgent.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.2.0, )"
+        },
+        "coverlet.collector": {
+          "target": "Package",
+          "version": "[1.0.1, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+    }
+  }
+}
