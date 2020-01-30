@@ -5,7 +5,7 @@
   },
   "projects": {
     "/home/alex/RiderProjects/RandomUserAgent/RandomUserAgent/RandomUserAgent.csproj": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "restore": {
         "projectUniqueName": "/home/alex/RiderProjects/RandomUserAgent/RandomUserAgent/RandomUserAgent.csproj",
         "projectName": "RandomUserAgent",

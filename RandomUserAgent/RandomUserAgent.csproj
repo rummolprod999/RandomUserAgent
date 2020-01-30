@@ -3,13 +3,13 @@
     <PropertyGroup>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Title>Random user-agent generator</Title>
-        <Description>Randon user-agent generator for NET Core projects</Description>
+        <Description>Random user-agent generator for NET Core projects</Description>
         <Copyright></Copyright>
         <RepositoryUrl>https://github.com/rummolprod999/RandomUserAgent</RepositoryUrl>
         <PackageTags>user-agent, user agent, random</PackageTags>
         <PackageLicenseUrl>https://github.com/NuGet/Samples/blob/master/PackageLicenseFileExample/License.txt</PackageLicenseUrl>
         <TargetFrameworks>netstandard1.0;netstandard1.1;netstandard1.2;netstandard1.3;netstandard1.4;netstandard1.5;netstandard1.6;netstandard1.7;netstandard2.0;netstandard2.1;netcoreapp2.2;netcoreapp2.1;netcoreapp2.0</TargetFrameworks>
-        <PackageVersion>1.1.0</PackageVersion>
+        <PackageVersion>1.1.1</PackageVersion>
     </PropertyGroup>
 
 </Project>

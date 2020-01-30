@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b96a440e-0b18-4dbc-8f21-f21e7dcb2af7" name="Default Changelist" comment="fix naming">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RandomUserAgent/RandomUserAgent.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/RandomUserAgent.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/Debug/netcoreapp2.0/RandomUserAgent.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/Debug/netcoreapp2.0/RandomUserAgent.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestProjectRandomUA/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/project.assets.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +15,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/RandomUserAgent/RandomUA.cs" root0="FORCE_HIGHLIGHTING" />
@@ -39,6 +32,7 @@
         <option value="$PROJECT_DIR$/TestProjectRandomUA/UnitTestRandomUA.cs" />
         <option value="$PROJECT_DIR$/RandomUserAgent/RandomUA.cs" />
         <option value="$PROJECT_DIR$/RandomUserAgent/RandomUserAgent.csproj" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -65,6 +59,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/README.md" />
     <property name="settings.editor.selected.configurable" value="RiderUnitTestingPageId" />
   </component>
   <component name="RustProjectSettings">
@@ -96,7 +91,8 @@
       <workItem from="1580202037604" duration="6439000" />
       <workItem from="1580209304034" duration="2805000" />
       <workItem from="1580380574675" duration="999000" />
-      <workItem from="1580383279509" duration="178000" />
+      <workItem from="1580383279509" duration="638000" />
+      <workItem from="1580384190819" duration="224000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1580207359753</created>
@@ -161,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580209542372</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix naming">
+      <created>1580383536347</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580383536347</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,19 +186,19 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix naming" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="fix naming" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix naming" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1904" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580382635520">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
     <state x="1904" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580382635520" />
-    <state x="2228" y="282" key="FileChooserDialogImpl" timestamp="1580204866729">
+    <state x="2228" y="282" key="FileChooserDialogImpl" timestamp="1580383689989">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
-    <state x="2228" y="282" key="FileChooserDialogImpl/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580204866729" />
+    <state x="2228" y="282" key="FileChooserDialogImpl/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580383689989" />
     <state x="2304" y="424" width="532" height="413" key="Github.ShareDialog" timestamp="1580207227977">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
@@ -212,10 +215,14 @@
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
     <state x="1956" y="159" key="SettingsEditor/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580205916929" />
-    <state x="2040" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580209544731">
+    <state x="2040" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580383540221">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
-    <state x="2040" y="256" key="Vcs.Push.Dialog.v2/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580209544731" />
+    <state x="2040" y="256" key="Vcs.Push.Dialog.v2/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580383540221" />
+    <state x="2252" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580383597306">
+      <screen x="1600" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2252" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580383597306" />
     <state x="2170" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580210838038">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
