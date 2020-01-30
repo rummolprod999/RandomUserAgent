@@ -5,4 +5,4 @@ How to use:
 
 `using RandomUserAgent;`
 
-`string useragent = RandomUa.RandomUserAgent;`
+`string userAgent = RandomUa.RandomUserAgent;`
