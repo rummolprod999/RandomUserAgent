@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b96a440e-0b18-4dbc-8f21-f21e7dcb2af7" name="Default Changelist" comment="fix naming">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomUserAgent/RandomUserAgent.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/RandomUserAgent.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/Debug/netcoreapp2.0/RandomUserAgent.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/Debug/netcoreapp2.0/RandomUserAgent.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProjectRandomUA/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/project.assets.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +38,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/TestProjectRandomUA/UnitTestRandomUA.cs" />
         <option value="$PROJECT_DIR$/RandomUserAgent/RandomUA.cs" />
+        <option value="$PROJECT_DIR$/RandomUserAgent/RandomUserAgent.csproj" />
       </list>
     </option>
   </component>
@@ -81,6 +94,9 @@
       <option name="presentableId" value="Default" />
       <updated>1580201993303</updated>
       <workItem from="1580202037604" duration="6439000" />
+      <workItem from="1580209304034" duration="2805000" />
+      <workItem from="1580380574675" duration="999000" />
+      <workItem from="1580383279509" duration="178000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1580207359753</created>
@@ -131,35 +147,51 @@
       <option name="project" value="LOCAL" />
       <updated>1580207975941</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1580209348283</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580209348284</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1580209542372</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580209542372</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update" />
     <MESSAGE value="fix naming" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix naming" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1904" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580205442954">
+    <state x="1904" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580382635520">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
-    <state x="1904" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580205442954" />
+    <state x="1904" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580382635520" />
     <state x="2228" y="282" key="FileChooserDialogImpl" timestamp="1580204866729">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
@@ -180,9 +212,13 @@
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
     <state x="1956" y="159" key="SettingsEditor/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580205916929" />
-    <state x="2040" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580209351503">
+    <state x="2040" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580209544731">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
-    <state x="2040" y="256" key="Vcs.Push.Dialog.v2/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580209351503" />
+    <state x="2040" y="256" key="Vcs.Push.Dialog.v2/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580209544731" />
+    <state x="2170" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580210838038">
+      <screen x="1600" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2170" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580210838038" />
   </component>
 </project>
