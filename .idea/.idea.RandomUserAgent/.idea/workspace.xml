@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b96a440e-0b18-4dbc-8f21-f21e7dcb2af7" name="Default Changelist" comment="add README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RandomUserAgent/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomUserAgent/RandomUserAgent.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/RandomUserAgent.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/RandomUserAgent.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomUserAgent/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RandomUserAgent/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/TestProjectRandomUA.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProjectRandomUA/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectRandomUA/obj/project.assets.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +97,8 @@
       <workItem from="1580209304034" duration="2805000" />
       <workItem from="1580380574675" duration="999000" />
       <workItem from="1580383279509" duration="638000" />
-      <workItem from="1580384190819" duration="472000" />
+      <workItem from="1580384190819" duration="544000" />
+      <workItem from="1580467876013" duration="186000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1580207359753</created>
@@ -168,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580384578234</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add README.md">
+      <created>1580384688030</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580384688030</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,10 +236,10 @@
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
     <state x="1956" y="159" key="SettingsEditor/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580205916929" />
-    <state x="2040" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580384581512">
+    <state x="2040" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580384690349">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>
-    <state x="2040" y="256" key="Vcs.Push.Dialog.v2/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580384581512" />
+    <state x="2040" y="256" key="Vcs.Push.Dialog.v2/0.24.1600.876/1600.0.1680.1050@1600.0.1680.1050" timestamp="1580384690349" />
     <state x="2252" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580383597306">
       <screen x="1600" y="0" width="1680" height="1050" />
     </state>

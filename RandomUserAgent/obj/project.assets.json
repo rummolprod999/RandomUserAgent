@@ -614,6 +614,8 @@
         }
       }
     },
+    ".NETCoreApp,Version=v3.0": {},
+    ".NETCoreApp,Version=v3.1": {},
     ".NETStandard,Version=v1.0": {
       "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
@@ -11312,6 +11314,8 @@
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.NETCore.App >= 2.2.0"
     ],
+    ".NETCoreApp,Version=v3.0": [],
+    ".NETCoreApp,Version=v3.1": [],
     ".NETStandard,Version=v1.0": [
       "NETStandard.Library >= 1.6.1"
     ],
@@ -11365,6 +11369,8 @@
         "netcoreapp2.0",
         "netcoreapp2.1",
         "netcoreapp2.2",
+        "netcoreapp3.0",
+        "netcoreapp3.1",
         "netstandard1.0",
         "netstandard1.1",
         "netstandard1.2",
@@ -11388,6 +11394,12 @@
           "projectReferences": {}
         },
         "netcoreapp2.2": {
+          "projectReferences": {}
+        },
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        },
+        "netcoreapp3.1": {
           "projectReferences": {}
         },
         "netstandard1.0": {
@@ -11489,6 +11501,48 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+      },
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+      },
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
         "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       },
       "netstandard1.0": {
